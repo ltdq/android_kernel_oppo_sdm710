@@ -1454,4 +1454,4 @@ config TOUCHSCREEN_RAYDIUM_CHIPSET
 
 endif
 
-source "drivers/input/touchscreen/oppo_touchscreen/Kconfig"
+source "drivers/input/touchscreen/oplus_touchscreen_v2/Kconfig"
